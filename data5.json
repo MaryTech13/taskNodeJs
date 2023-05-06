@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "Mariem",
+        "lname": "Nour",
+        "age": 29,
+        "city": "Doha"
+    },
+    {
+        "id": 3,
+        "fname": "nisrin",
+        "lname": "Nour",
+        "age": 32,
+        "city": "tanger"
+    },
+    {
+        "id": 4,
+        "fname": "Salah",
+        "lname": "idrissi",
+        "age": 43,
+        "city": "Casablanca"
+    },
+    {
+        "id": 7,
+        "fname": "Sama",
+        "lname": "Nour",
+        "age": 50,
+        "city": "beyrouth"
+    },
+    {
+        "id": 8,
+        "fname": "zaineb",
+        "lname": "Nour",
+        "age": 31,
+        "city": "istanbul"
+    },
+    {
+        "id": 10,
+        "fname": "yassin",
+        "lname": "Nour",
+        "age": 38,
+        "city": "Rabat"
+    }
+]
